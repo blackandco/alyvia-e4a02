@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Supercharge your Digital Marketing campaign with human touch
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Bringing online business to connect with real human prospects in the Asia
+      regional cities. Get real results in reaching business clients that is
+      more effective than conventional pay-click services.
     actions:
       - label: Contact Me
         url: /contact
