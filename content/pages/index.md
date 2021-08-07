@@ -195,8 +195,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          I agree to the terms of use for submitting to this request. We do not
+          sell your information.
         is_required: true
     submit_label: Send Message
     align_vert: top
