@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Supercharge your Digital Marketing campaign with human touch
     subtitle: >-
-      Bringing online business to connect with real human prospects in the Asia
-      regional cities. Get real results in reaching business clients that is
-      more effective than conventional pay-click services.
+      Bringing businesses to connect with real human prospects in the Asia
+      regional cities. Get real results in reaching corporate clients that are
+      more effective than conventional online pay-click services.
     actions:
       - label: Contact Me
         url: /contact
