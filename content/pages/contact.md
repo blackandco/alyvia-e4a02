@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Black & Co. Ltd.
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: '702/4 Moo1 Rimtai, Maerim, Chiangmai 50180 Thailand'
     align: center
     padding_top: medium
     padding_bottom: medium
